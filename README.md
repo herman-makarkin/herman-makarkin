@@ -14,7 +14,6 @@ The things i have worked with
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-## Headers
 <!--
 **herman-makarkin/herman-makarkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
