@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Herman
 
-I'm a passionate Frontend (or even Frullstack) developer from Russia. I enjoy learning new languages, reading nerdy philosophy books (like phänomenologie des geistes) and programming random stuff.
+I'm a passionate Frontend (or even Fullstack) developer from Russia. I enjoy learning new languages, reading nerdy philosophy books (like phänomenologie des geistes) and programming random stuff.
 
 The things i have worked with
 
